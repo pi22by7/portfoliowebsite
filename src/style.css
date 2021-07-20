@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #282828;
+  color: aliceblue;
+}
+
+.panel {
+  padding: 1%;
+  background-color: #393939;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 95%;
+}
+
+/* .carousel-inner > .carousel-item > img {
+  margin: auto;
+  width: 50%;
+  height: 50%;
+} */
+
+/* .carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+  width: 50%;
+} */
